@@ -13,20 +13,20 @@ Bounty page: https://make.fun/bounty/u-golden-heron-44-charm-the-commuter-foreca
 
 ## The line
 
-> In Mizzlewick, light rain all morning, warm buses, and every traffic light turning green just for you — the commute gods are smiling.
+> Mizzlewick: light rain all morning, buses warm and on time, and every traffic light green just for you — the commute gods are smiling.
 
 ## Why this line
 
 The judge is a bored commuter at a rainy bus stop, so the line is built like
 a real broadcast forecast — place first, weather second — then bends it with
-a small gift: not just rain, but warm buses and a run of green lights, all
-just for you. Mizzlewick gets one concrete detail of its life (its buses are
-warm, its lights are kind), and the closing twist — the commute gods are
-smiling — turns a grey morning into a joke the commuter is in on. Every word
-earns its place in 133 characters.
+a small gift: not just rain, but buses warm *and* on time, and a run of green
+lights, all just for you. Mizzlewick gets one concrete detail of its life (its
+buses are warm, its lights are kind), and the closing twist — the commute gods
+are smiling — turns a grey morning into a joke the commuter is in on. Every
+word earns its place in 134 characters.
 
 ## How it runs
 
 `main.ts` (Node 22, stdlib only) writes the line above, exactly, to
-`/output/entry.txt` — 133 Unicode code points, no network, fully
+`/output/entry.txt` — 134 Unicode code points, no network, fully
 deterministic: two runs produce byte-identical output.
